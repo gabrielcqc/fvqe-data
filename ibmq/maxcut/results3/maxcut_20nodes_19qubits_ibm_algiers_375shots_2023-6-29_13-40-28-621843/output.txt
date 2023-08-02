@@ -1,0 +1,13 @@
+{'best_solutions_evol': ['0110011101000101110',
+                         0.023316284344434224,
+                         1.0000000000000002,
+                         81000],
+ 'circuit_ids': 'fvqe-iqp-wbgvNeEyw8_cieopet76ec66ps6d1b0_c519_0',
+ 'job_id': 'cieojj7985671v391mi0',
+ 'norm_gradient': 12747.24681563385,
+ 'solution_found': True,
+ 'step': 1,
+ 'tau': 2.5,
+ 'time_class': 1.9935531616210938,
+ 'time_quantum': 82.3324282169342}
+
