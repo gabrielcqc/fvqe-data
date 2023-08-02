@@ -1,0 +1,23 @@
+number of nodes = 14, graph = [(3, 4), (3, 1), (3, 5), (4, 9), (4, 13), (9, 1), (9, 6), (5, 10), (5, 1), (10, 12), (10, 11), (0, 2), (0, 8), (0, 7), (2, 13), (2, 6), (8, 12), (8, 11), (12, 7), (11, 13), (7, 6)], number of qubits = 13, optimal cost = 9.010051433540507, optimal nodes sets = [(0, 1, 3, 6, 11, 12, 13), (2, 4, 5, 7, 8, 9, 10)], degeneracy of optimal sets = 1, worse cost = -0.0, worse nodes sets = [(0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13), ()], degeneracy of worse sets = 1, ground energy = -9.010051433540507, ground state = 0010110111100, degeneracy of optimal solutions = 1, first excited energy = -8.932461405914776, gap = 0.07759002762573175, first excited state = 0010110101011, degeneracy of first excited solutions = 1, maximum energy = 0.0, maximum solution = 0000000000000, degeneracy of worse solutions = 1, sdp upper bound of optimal cost = 9.035630643471725, sdp lower bound ground energy = -9.035630643471725, sdp lower bound of worst cost = 0, sdp upper bound of maximum energy = 0, approximation ratio larger than 95 = ["0010110111100", "0010110101110", "0010110111001", "0010110101011"]
+-4.818068323386112
+0.40407973473896763 3 4
+0.21876784281108114 3 1
+0.24852811481886733 3 5
+0.019533774989900943 4 9
+0.44184904956313015 4
+0.3524634170087987 9 1
+0.35559655938349083 9 6
+0.052123739169560146 5 10
+0.30855412244799246 5 1
+0.45071805223965294 10 12
+0.0742127680009308 10 11
+0.3257536551181086 0 2
+0.012318861297339112 0 8
+0.40970854800733286 0 7
+0.4930350256536055 2
+0.037854717972670815 2 6
+0.047709060333661124 8 12
+0.17579487272107452 8 11
+0.10121714133040371 12 7
+0.022617249645316084 11
+0.2656320161342259 7 6

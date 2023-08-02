@@ -1,0 +1,44 @@
+{'best_solutions_evol': ['1100111011110000010',
+                         0.028015358042053462,
+                         0.9804989356437805,
+                         94500],
+ 'norm_gradient': 9040.717515878896,
+ 'solution_found': False,
+ 'step': 1,
+ 'tau': 2.5,
+ 'time_class': 1.9929003715515137,
+ 'time_quantum': 94.0899600982666}
+
+{'best_solutions_evol': ['1100111011110000010',
+                         0.028015358042053462,
+                         0.9804989356437805,
+                         94500],
+ 'norm_gradient': 6336.403984837298,
+ 'solution_found': False,
+ 'step': 2,
+ 'tau': 2.5,
+ 'time_class': 0.05713534355163574,
+ 'time_quantum': 72.55281162261963}
+
+{'best_solutions_evol': ['1100111011110000010',
+                         0.028015358042053462,
+                         0.9804989356437805,
+                         94500],
+ 'norm_gradient': 4200.802843433347,
+ 'solution_found': False,
+ 'step': 3,
+ 'tau': 2.5,
+ 'time_class': 0.05666089057922363,
+ 'time_quantum': 71.03040528297424}
+
+{'best_solutions_evol': ['0011000100001111101',
+                         0.008683633787163303,
+                         1.0,
+                         420000],
+ 'norm_gradient': 142383.40525311467,
+ 'solution_found': True,
+ 'step': 4,
+ 'tau': 2.5,
+ 'time_class': 0.05986952781677246,
+ 'time_quantum': 71.11634612083435}
+

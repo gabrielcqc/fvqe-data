@@ -1,0 +1,144 @@
+{'backend': 'ibm_brisbane',
+ 'n_run': 1,
+ 'n_steps': 18,
+ 'time_job_done': '2023-07-06 14:35:09.037721',
+ 'time_queue': '0:02:01.169739',
+ 'time_running': '5:35:50.857054',
+ 'time_upload': '2023-07-06 08:57:17.010928',
+ 'total_circuits': 6016050}
+
+{'backend': 'ibm_brisbane',
+ 'n_run': 2,
+ 'n_steps': 14,
+ 'time_job_done': '2023-07-06 21:54:49.298601',
+ 'time_queue': '0:04:02.124667',
+ 'time_running': '7:15:36.963870',
+ 'time_upload': '2023-07-06 14:35:10.210064',
+ 'total_circuits': 4679150}
+
+{'backend': 'ibm_brisbane',
+ 'n_run': 3,
+ 'n_steps': 14,
+ 'time_job_done': '2023-07-07 03:17:55.666713',
+ 'time_queue': '0:05:02.702360',
+ 'time_running': '5:18:02.533139',
+ 'time_upload': '2023-07-06 21:54:50.431214',
+ 'total_circuits': 4679150}
+
+{'backend': 'ibm_brisbane',
+ 'n_run': 4,
+ 'n_steps': 15,
+ 'time_job_done': '2023-07-07 08:45:19.483332',
+ 'time_queue': '0:08:03.927671',
+ 'time_running': '5:19:18.665726',
+ 'time_upload': '2023-07-07 03:17:56.889935',
+ 'total_circuits': 5013375}
+
+{'backend': 'ibm_brisbane',
+ 'n_run': 5,
+ 'n_steps': 9,
+ 'time_job_done': '2023-07-07 15:08:54.392687',
+ 'time_queue': '0:02:01.213990',
+ 'time_running': '6:21:32.726043',
+ 'time_upload': '2023-07-07 08:45:20.452654',
+ 'total_circuits': 3008025}
+
+{'backend': 'ibm_brisbane',
+ 'n_run': 6,
+ 'n_steps': 18,
+ 'time_job_done': '2023-07-08 02:15:09.735364',
+ 'time_queue': '5:45:38.592398',
+ 'time_running': '5:20:35.216521',
+ 'time_upload': '2023-07-07 15:08:55.926445',
+ 'total_circuits': 6016050}
+
+{'backend': 'ibm_brisbane',
+ 'n_run': 7,
+ 'n_steps': 2,
+ 'time_job_done': '2023-07-08 09:24:05.421274',
+ 'time_queue': '2:17:59.064307',
+ 'time_running': '4:50:55.521818',
+ 'time_upload': '2023-07-08 02:15:10.835149',
+ 'total_circuits': 668450}
+
+{'backend': 'ibm_brisbane',
+ 'n_run': 8,
+ 'n_steps': 6,
+ 'time_job_done': '2023-07-08 15:05:59.969756',
+ 'time_queue': '0:17:07.643162',
+ 'time_running': '5:24:45.779338',
+ 'time_upload': '2023-07-08 09:24:06.547256',
+ 'total_circuits': 2005350}
+
+{'backend': 'ibm_brisbane',
+ 'n_run': 9,
+ 'n_steps': 19,
+ 'time_job_done': '2023-07-08 20:35:21.650422',
+ 'time_queue': '0:07:03.456472',
+ 'time_running': '5:22:17.111481',
+ 'time_upload': '2023-07-08 15:06:01.082469',
+ 'total_circuits': 6350275}
+
+{'backend': 'ibm_brisbane',
+ 'n_run': 10,
+ 'n_steps': 5,
+ 'time_job_done': '2023-07-08 22:59:31.070730',
+ 'time_queue': '0:04:02.104012',
+ 'time_running': '2:20:06.453466',
+ 'time_upload': '2023-07-08 20:35:22.513252',
+ 'total_circuits': 1671125}
+
+{'backend': 'ibm_brisbane',
+ 'n_run': 11,
+ 'n_steps': 17,
+ 'time_job_done': '2023-07-09 04:34:10.245723',
+ 'time_queue': '0:07:06.043204',
+ 'time_running': '5:27:32.213004',
+ 'time_upload': '2023-07-08 22:59:31.989515',
+ 'total_circuits': 5681825}
+
+{'backend': 'ibm_brisbane',
+ 'n_run': 12,
+ 'n_steps': 12,
+ 'time_job_done': '2023-07-09 10:56:41.083505',
+ 'time_queue': '0:01:01.112872',
+ 'time_running': '6:21:28.795612',
+ 'time_upload': '2023-07-09 04:34:11.175021',
+ 'total_circuits': 4010700}
+
+{'backend': 'ibm_brisbane',
+ 'n_run': 13,
+ 'n_steps': 17,
+ 'time_job_done': '2023-07-09 15:58:32.846122',
+ 'time_queue': '0:01:00.860038',
+ 'time_running': '5:00:49.656703',
+ 'time_upload': '2023-07-09 10:56:42.329381',
+ 'total_circuits': 5681825}
+
+{'backend': 'ibm_brisbane',
+ 'n_run': 14,
+ 'n_steps': 17,
+ 'time_job_done': '2023-07-09 21:23:13.174589',
+ 'time_queue': '0:03:01.825370',
+ 'time_running': '5:21:37.306561',
+ 'time_upload': '2023-07-09 15:58:34.042658',
+ 'total_circuits': 5681825}
+
+{'backend': 'ibm_brisbane',
+ 'n_run': 15,
+ 'n_steps': 18,
+ 'time_job_done': '2023-07-10 02:40:32.085791',
+ 'time_queue': '0:01:00.888612',
+ 'time_running': '5:16:17.104212',
+ 'time_upload': '2023-07-09 21:23:14.092967',
+ 'total_circuits': 6016050}
+
+{'backend': 'ibm_brisbane',
+ 'n_run': 16,
+ 'n_steps': 16,
+ 'time_job_done': '2023-07-10 08:00:35.429788',
+ 'time_queue': '0:01:00.726230',
+ 'time_running': '5:19:01.560232',
+ 'time_upload': '2023-07-10 02:40:33.143326',
+ 'total_circuits': 5347600}
+

@@ -1,0 +1,80 @@
+{'n_run': 1,
+ 'n_steps': 13,
+ 'time_job_done': '2023-06-26 17:10:08.127958',
+ 'time_queue': '0:18:11.154757',
+ 'time_running': '5:37:42.153202',
+ 'time_upload': '2023-06-26 11:14:14.819999',
+ 'total_circuits': 6123975}
+
+{'n_run': 2,
+ 'n_steps': 7,
+ 'time_job_done': '2023-06-26 21:00:58.786724',
+ 'time_queue': '0:08:05.169770',
+ 'time_running': '3:42:43.752315',
+ 'time_upload': '2023-06-26 17:10:09.864639',
+ 'total_circuits': 3297525}
+
+{'n_run': 3,
+ 'n_steps': 12,
+ 'time_job_done': '2023-06-27 02:20:30.222344',
+ 'time_queue': '0:03:02.420079',
+ 'time_running': '5:16:27.544353',
+ 'time_upload': '2023-06-26 21:01:00.257912',
+ 'total_circuits': 5652900}
+
+{'n_run': 4,
+ 'n_steps': 12,
+ 'time_job_done': '2023-06-27 07:54:40.625856',
+ 'time_queue': '0:12:07.236794',
+ 'time_running': '5:22:01.567990',
+ 'time_upload': '2023-06-27 02:20:31.821072',
+ 'total_circuits': 5652900}
+
+{'n_run': 5,
+ 'n_steps': 11,
+ 'time_job_done': '2023-06-27 13:36:46.888556',
+ 'time_queue': '0:20:11.910151',
+ 'time_running': '5:21:52.761394',
+ 'time_upload': '2023-06-27 07:54:42.217011',
+ 'total_circuits': 5181825}
+
+{'n_run': 6,
+ 'n_steps': 13,
+ 'time_job_done': '2023-06-27 21:55:18.202223',
+ 'time_queue': '3:01:58.228971',
+ 'time_running': '5:16:31.398924',
+ 'time_upload': '2023-06-27 13:36:48.574328',
+ 'total_circuits': 6123975}
+
+{'n_run': 7,
+ 'n_steps': 12,
+ 'time_job_done': '2023-06-28 17:55:20.870780',
+ 'time_queue': '14:13:23.677569',
+ 'time_running': '5:46:37.131134',
+ 'time_upload': '2023-06-27 21:55:20.062077',
+ 'total_circuits': 5652900}
+
+{'n_run': 8,
+ 'n_steps': 5,
+ 'time_job_done': '2023-06-28 23:47:06.489134',
+ 'time_queue': '0:05:03.403932',
+ 'time_running': '5:46:39.957583',
+ 'time_upload': '2023-06-28 17:55:23.127619',
+ 'total_circuits': 2355375}
+
+{'n_run': 9,
+ 'n_steps': 11,
+ 'time_job_done': '2023-06-29 05:19:38.768383',
+ 'time_queue': '0:10:07.229869',
+ 'time_running': '5:22:23.630330',
+ 'time_upload': '2023-06-28 23:47:07.908184',
+ 'total_circuits': 5181825}
+
+{'n_run': 10,
+ 'n_steps': 12,
+ 'time_job_done': '2023-06-29 11:14:25.629207',
+ 'time_queue': '0:18:10.826733',
+ 'time_running': '5:36:34.621284',
+ 'time_upload': '2023-06-29 05:19:40.181190',
+ 'total_circuits': 5652900}
+

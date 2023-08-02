@@ -1,0 +1,17 @@
+{'ansatz': 'IQP_checkboard',
+ 'backend': 'ibm_cairo',
+ 'backend_noise': False,
+ 'cycle': False,
+ 'experiment_name': 'atsp_10cities_19qubits_2022-11-24_17-5-9_3321514913.pkl',
+ 'filter_type': 'inverse',
+ 'initial_params': False,
+ 'learning_rate': 0.25,
+ 'loss_function': 'fidelity',
+ 'max_time': 18000,
+ 'n_qubits': 19,
+ 'n_shots': 375,
+ 'n_steps': 200,
+ 'optimiser': 'gradient descent',
+ 'problem': 'ATSP',
+ 'tau': 2.5}
+

@@ -1,0 +1,117 @@
+{'backend': 'ibm_sherbrooke',
+ 'n_run': 1,
+ 'n_steps': 10,
+ 'time_job_done': '2023-07-06 16:12:49.439053',
+ 'time_queue': '0:02:00.636202',
+ 'time_running': '7:14:53.057406',
+ 'time_upload': '2023-07-06 08:55:55.745445',
+ 'total_circuits': 3342250}
+
+{'backend': 'ibm_sherbrooke',
+ 'n_run': 2,
+ 'n_steps': 5,
+ 'time_job_done': '2023-07-06 22:23:29.400960',
+ 'time_queue': '0:06:01.953870',
+ 'time_running': '6:04:37.261523',
+ 'time_upload': '2023-07-06 16:12:50.185567',
+ 'total_circuits': 1671125}
+
+{'backend': 'ibm_sherbrooke',
+ 'n_run': 3,
+ 'n_steps': 17,
+ 'time_job_done': '2023-07-07 03:54:54.817082',
+ 'time_queue': '0:02:00.788990',
+ 'time_running': '5:29:23.786658',
+ 'time_upload': '2023-07-06 22:23:30.241434',
+ 'total_circuits': 5681825}
+
+{'backend': 'ibm_sherbrooke',
+ 'n_run': 4,
+ 'n_steps': 16,
+ 'time_job_done': '2023-07-08 03:46:24.886065',
+ 'time_queue': '18:29:57.829889',
+ 'time_running': '5:21:31.511271',
+ 'time_upload': '2023-07-07 03:54:55.544905',
+ 'total_circuits': 5347600}
+
+{'backend': 'ibm_sherbrooke',
+ 'n_run': 5,
+ 'n_steps': 14,
+ 'time_job_done': '2023-07-09 06:04:50.584304',
+ 'time_queue': '19:03:18.696769',
+ 'time_running': '7:15:06.486294',
+ 'time_upload': '2023-07-08 03:46:25.401241',
+ 'total_circuits': 4679150}
+
+{'backend': 'ibm_sherbrooke',
+ 'n_run': 6,
+ 'n_steps': 15,
+ 'time_job_done': '2023-07-10 05:28:50.679849',
+ 'time_queue': '16:08:58.232564',
+ 'time_running': '7:15:01.316272',
+ 'time_upload': '2023-07-09 06:04:51.131013',
+ 'total_circuits': 5013375}
+
+{'backend': 'ibm_sherbrooke',
+ 'n_run': 7,
+ 'n_steps': 9,
+ 'time_job_done': '2023-07-10 12:49:22.286604',
+ 'time_queue': '0:05:01.616378',
+ 'time_running': '7:15:29.209599',
+ 'time_upload': '2023-07-10 05:28:51.460627',
+ 'total_circuits': 3008025}
+
+{'backend': 'ibm_sherbrooke',
+ 'n_run': 8,
+ 'n_steps': 11,
+ 'time_job_done': '2023-07-10 20:07:09.078482',
+ 'time_queue': '0:02:00.825254',
+ 'time_running': '7:15:45.287513',
+ 'time_upload': '2023-07-10 12:49:22.965715',
+ 'total_circuits': 3676475}
+
+{'backend': 'ibm_sherbrooke',
+ 'n_run': 9,
+ 'n_steps': 11,
+ 'time_job_done': '2023-07-11 03:26:33.686019',
+ 'time_queue': '0:04:01.521133',
+ 'time_running': '7:14:57.498422',
+ 'time_upload': '2023-07-10 20:07:34.666464',
+ 'total_circuits': 3676475}
+
+{'backend': 'ibm_sherbrooke',
+ 'n_run': 10,
+ 'n_steps': 15,
+ 'time_job_done': '2023-07-11 12:35:01.459292',
+ 'time_queue': '3:47:17.115614',
+ 'time_running': '5:21:06.314664',
+ 'time_upload': '2023-07-11 03:26:38.029014',
+ 'total_circuits': 5013375}
+
+{'backend': 'ibm_sherbrooke',
+ 'n_run': 11,
+ 'n_steps': 6,
+ 'time_job_done': '2023-07-11 18:12:36.776750',
+ 'time_queue': '0:22:06.846610',
+ 'time_running': '5:15:27.647316',
+ 'time_upload': '2023-07-11 12:35:02.282824',
+ 'total_circuits': 2005350}
+
+{'backend': 'ibm_sherbrooke',
+ 'n_run': 12,
+ 'n_steps': 9,
+ 'time_job_done': '2023-07-12 00:32:33.929349',
+ 'time_queue': '0:51:16.550945',
+ 'time_running': '5:28:39.798717',
+ 'time_upload': '2023-07-11 18:12:37.579687',
+ 'total_circuits': 3008025}
+
+{'backend': 'ibm_sherbrooke',
+ 'n_run': 13,
+ 'n_steps': 6,
+ 'time_job_done': '2023-07-12 07:09:55.765773',
+ 'time_queue': '0:19:05.747816',
+ 'time_running': '6:18:15.440306',
+ 'time_upload': '2023-07-12 00:32:34.577651',
+ 'total_circuits': 2005350}
+

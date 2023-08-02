@@ -1,0 +1,144 @@
+{'backend': 'ibm_sherbrooke',
+ 'n_run': 1,
+ 'n_steps': 7,
+ 'time_job_done': '2023-07-06 14:55:34.737729',
+ 'time_queue': '0:02:01.443716',
+ 'time_running': '5:54:58.450128',
+ 'time_upload': '2023-07-06 08:58:34.843885',
+ 'total_circuits': 3297525}
+
+{'backend': 'ibm_sherbrooke',
+ 'n_run': 2,
+ 'n_steps': 8,
+ 'time_job_done': '2023-07-06 22:16:54.657988',
+ 'time_queue': '0:06:03.897126',
+ 'time_running': '7:15:14.484418',
+ 'time_upload': '2023-07-06 14:55:36.276444',
+ 'total_circuits': 3768600}
+
+{'backend': 'ibm_sherbrooke',
+ 'n_run': 3,
+ 'n_steps': 13,
+ 'time_job_done': '2023-07-07 03:52:17.435867',
+ 'time_queue': '0:02:01.554253',
+ 'time_running': '5:33:19.756539',
+ 'time_upload': '2023-07-06 22:16:56.125075',
+ 'total_circuits': 6123975}
+
+{'backend': 'ibm_sherbrooke',
+ 'n_run': 4,
+ 'n_steps': 5,
+ 'time_job_done': '2023-07-08 01:20:25.470752',
+ 'time_queue': '18:33:03.657310',
+ 'time_running': '2:55:02.939291',
+ 'time_upload': '2023-07-07 03:52:18.874151',
+ 'total_circuits': 2355375}
+
+{'backend': 'ibm_sherbrooke',
+ 'n_run': 5,
+ 'n_steps': 9,
+ 'time_job_done': '2023-07-08 08:41:13.846141',
+ 'time_queue': '0:05:02.964829',
+ 'time_running': '7:15:44.310881',
+ 'time_upload': '2023-07-08 01:20:26.570431',
+ 'total_circuits': 4239675}
+
+{'backend': 'ibm_sherbrooke',
+ 'n_run': 6,
+ 'n_steps': 10,
+ 'time_job_done': '2023-07-09 05:49:13.611123',
+ 'time_queue': '14:08:31.003126',
+ 'time_running': '6:59:27.385299',
+ 'time_upload': '2023-07-08 08:41:15.222698',
+ 'total_circuits': 4710750}
+
+{'backend': 'ibm_sherbrooke',
+ 'n_run': 7,
+ 'n_steps': 10,
+ 'time_job_done': '2023-07-10 05:28:52.072209',
+ 'time_queue': '16:24:44.123647',
+ 'time_running': '7:14:52.132027',
+ 'time_upload': '2023-07-09 05:49:15.816535',
+ 'total_circuits': 4710750}
+
+{'backend': 'ibm_sherbrooke',
+ 'n_run': 8,
+ 'n_steps': 6,
+ 'time_job_done': '2023-07-10 12:50:05.165619',
+ 'time_queue': '0:06:04.664047',
+ 'time_running': '7:15:07.343400',
+ 'time_upload': '2023-07-10 05:28:53.158172',
+ 'total_circuits': 2826450}
+
+{'backend': 'ibm_sherbrooke',
+ 'n_run': 9,
+ 'n_steps': 12,
+ 'time_job_done': '2023-07-10 18:17:18.914327',
+ 'time_queue': '0:03:02.133426',
+ 'time_running': '5:24:08.892592',
+ 'time_upload': '2023-07-10 12:50:07.888309',
+ 'total_circuits': 5652900}
+
+{'backend': 'ibm_sherbrooke',
+ 'n_run': 10,
+ 'n_steps': 5,
+ 'time_job_done': '2023-07-11 01:34:40.499069',
+ 'time_queue': '0:02:01.589768',
+ 'time_running': '7:15:18.305063',
+ 'time_upload': '2023-07-10 18:17:20.604238',
+ 'total_circuits': 2355375}
+
+{'backend': 'ibm_sherbrooke',
+ 'n_run': 11,
+ 'n_steps': 0,
+ 'time_job_done': '2023-07-11 11:27:32.784546',
+ 'time_queue': '2:37:25.792574',
+ 'time_running': '7:15:25.273266',
+ 'time_upload': '2023-07-11 01:34:41.718706',
+ 'total_circuits': 0}
+
+{'backend': 'ibm_sherbrooke',
+ 'n_run': 12,
+ 'n_steps': 3,
+ 'time_job_done': '2023-07-11 17:17:40.582806',
+ 'time_queue': '0:33:19.970627',
+ 'time_running': '5:16:46.304431',
+ 'time_upload': '2023-07-11 11:27:34.307748',
+ 'total_circuits': 1413225}
+
+{'backend': 'ibm_sherbrooke',
+ 'n_run': 13,
+ 'n_steps': 8,
+ 'time_job_done': '2023-07-12 00:53:20.510758',
+ 'time_queue': '1:44:58.105120',
+ 'time_running': '5:50:40.473910',
+ 'time_upload': '2023-07-11 17:17:41.931728',
+ 'total_circuits': 3768600}
+
+{'backend': 'ibm_sherbrooke',
+ 'n_run': 14,
+ 'n_steps': 4,
+ 'time_job_done': '2023-07-12 07:08:20.858344',
+ 'time_queue': '0:21:11.519889',
+ 'time_running': '5:53:47.647944',
+ 'time_upload': '2023-07-12 00:53:21.690511',
+ 'total_circuits': 1884300}
+
+{'backend': 'ibm_sherbrooke',
+ 'n_run': 15,
+ 'n_steps': 2,
+ 'time_job_done': '2023-07-12 08:53:14.199331',
+ 'time_queue': '0:13:07.413095',
+ 'time_running': '1:31:43.601317',
+ 'time_upload': '2023-07-12 07:08:23.184919',
+ 'total_circuits': 942150}
+
+{'backend': 'ibm_sherbrooke',
+ 'n_run': 16,
+ 'n_steps': 2,
+ 'time_job_done': '2023-07-13 09:46:59.506903',
+ 'time_queue': '0:01:01.358114',
+ 'time_running': '1:03:47.397605',
+ 'time_upload': '2023-07-13 08:42:10.751184',
+ 'total_circuits': 942150}
+

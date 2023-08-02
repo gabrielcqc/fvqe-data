@@ -1,0 +1,9 @@
+{'backend': 'ibm_nazca',
+ 'n_run': 1,
+ 'n_steps': 1,
+ 'time_job_done': '2023-07-03 10:40:45.245485',
+ 'time_queue': '0:01:01.276996',
+ 'time_running': '0:03:20.988803',
+ 'time_upload': '2023-07-03 10:36:22.979686',
+ 'total_circuits': 95400}
+

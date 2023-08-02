@@ -1,0 +1,117 @@
+{'backend': 'ibm_brisbane',
+ 'n_run': 1,
+ 'n_steps': 8,
+ 'time_job_done': '2023-07-05 16:02:42.425505',
+ 'time_queue': '0:56:19.209120',
+ 'time_running': '7:15:25.471924',
+ 'time_upload': '2023-07-05 07:50:57.744461',
+ 'total_circuits': 2224800}
+
+{'backend': 'ibm_brisbane',
+ 'n_run': 2,
+ 'n_steps': 17,
+ 'time_job_done': '2023-07-05 22:00:12.628235',
+ 'time_queue': '0:57:24.965337',
+ 'time_running': '5:00:04.266166',
+ 'time_upload': '2023-07-05 16:02:43.396732',
+ 'total_circuits': 4727700}
+
+{'backend': 'ibm_brisbane',
+ 'n_run': 3,
+ 'n_steps': 7,
+ 'time_job_done': '2023-07-06 03:19:26.612437',
+ 'time_queue': '0:02:01.046197',
+ 'time_running': '5:17:12.135885',
+ 'time_upload': '2023-07-05 22:00:13.430355',
+ 'total_circuits': 1946700}
+
+{'backend': 'ibm_brisbane',
+ 'n_run': 4,
+ 'n_steps': 8,
+ 'time_job_done': '2023-07-06 08:52:18.902950',
+ 'time_queue': '0:05:02.302105',
+ 'time_running': '5:27:48.978723',
+ 'time_upload': '2023-07-06 03:19:27.622122',
+ 'total_circuits': 2224800}
+
+{'backend': 'ibm_brisbane',
+ 'n_run': 5,
+ 'n_steps': 20,
+ 'time_job_done': '2023-07-06 14:14:50.331338',
+ 'time_queue': '0:02:01.101709',
+ 'time_running': '5:20:29.437302',
+ 'time_upload': '2023-07-06 08:52:19.792327',
+ 'total_circuits': 5562000}
+
+{'backend': 'ibm_brisbane',
+ 'n_run': 6,
+ 'n_steps': 5,
+ 'time_job_done': '2023-07-06 21:32:46.366625',
+ 'time_queue': '0:03:01.538777',
+ 'time_running': '7:14:53.449388',
+ 'time_upload': '2023-07-06 14:14:51.378460',
+ 'total_circuits': 1390500}
+
+{'backend': 'ibm_brisbane',
+ 'n_run': 7,
+ 'n_steps': 14,
+ 'time_job_done': '2023-07-07 04:52:48.267451',
+ 'time_queue': '0:05:02.520350',
+ 'time_running': '7:14:58.393275',
+ 'time_upload': '2023-07-06 21:32:47.353826',
+ 'total_circuits': 3893400}
+
+{'backend': 'ibm_brisbane',
+ 'n_run': 8,
+ 'n_steps': 16,
+ 'time_job_done': '2023-07-07 10:30:00.249482',
+ 'time_queue': '0:17:07.149603',
+ 'time_running': '5:20:00.574834',
+ 'time_upload': '2023-07-07 04:52:52.525045',
+ 'total_circuits': 4449600}
+
+{'backend': 'ibm_brisbane',
+ 'n_run': 9,
+ 'n_steps': 8,
+ 'time_job_done': '2023-07-07 16:12:32.303088',
+ 'time_queue': '0:15:06.604966',
+ 'time_running': '5:27:24.716493',
+ 'time_upload': '2023-07-07 10:30:00.981629',
+ 'total_circuits': 2224800}
+
+{'backend': 'ibm_brisbane',
+ 'n_run': 10,
+ 'n_steps': 14,
+ 'time_job_done': '2023-07-08 01:04:38.236771',
+ 'time_queue': '4:41:56.748108',
+ 'time_running': '4:10:08.086856',
+ 'time_upload': '2023-07-07 16:12:33.401807',
+ 'total_circuits': 3893400}
+
+{'backend': 'ibm_brisbane',
+ 'n_run': 11,
+ 'n_steps': 15,
+ 'time_job_done': '2023-07-08 08:38:02.807526',
+ 'time_queue': '0:34:13.766674',
+ 'time_running': '6:59:10.012970',
+ 'time_upload': '2023-07-08 01:04:39.027882',
+ 'total_circuits': 4171500}
+
+{'backend': 'ibm_brisbane',
+ 'n_run': 12,
+ 'n_steps': 18,
+ 'time_job_done': '2023-07-08 14:07:15.265429',
+ 'time_queue': '0:06:02.938934',
+ 'time_running': '5:23:08.806173',
+ 'time_upload': '2023-07-08 08:38:03.520322',
+ 'total_circuits': 5005800}
+
+{'backend': 'ibm_brisbane',
+ 'n_run': 13,
+ 'n_steps': 21,
+ 'time_job_done': '2023-07-08 19:33:46.949095',
+ 'time_queue': '0:11:04.813901',
+ 'time_running': '5:15:25.866808',
+ 'time_upload': '2023-07-08 14:07:16.268386',
+ 'total_circuits': 5840100}
+

@@ -1,0 +1,9 @@
+{'backend': 'ibmq_kolkata',
+ 'n_run': 1,
+ 'n_steps': 4,
+ 'time_job_done': '2023-06-29 14:17:35.765577',
+ 'time_queue': '0:42:05.988823',
+ 'time_running': '0:04:29.020695',
+ 'time_upload': '2023-06-29 13:31:00.756059',
+ 'total_circuits': 231000}
+
