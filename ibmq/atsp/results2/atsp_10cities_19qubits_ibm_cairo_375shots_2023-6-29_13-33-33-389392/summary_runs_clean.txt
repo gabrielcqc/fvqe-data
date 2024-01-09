@@ -1,0 +1,9 @@
+{'backend': 'ibm_cairo',
+ 'n_run': 1,
+ 'n_steps': 13,
+ 'time_job_done': '2023-06-29 14:58:52.514463',
+ 'time_queue': '0:10:01.453719',
+ 'time_running': '1:15:16.463727',
+ 'time_upload': '2023-06-29 13:33:34.597017',
+ 'total_circuits': 750750}
+

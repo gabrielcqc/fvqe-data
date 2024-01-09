@@ -1,0 +1,9 @@
+{'backend': 'ibm_hanoi',
+ 'n_run': 1,
+ 'n_steps': 1,
+ 'time_job_done': '2023-06-29 15:48:55.353668',
+ 'time_queue': '1:49:15.983268',
+ 'time_running': '0:20:39.026519',
+ 'time_upload': '2023-06-29 13:39:00.343881',
+ 'total_circuits': 57750}
+

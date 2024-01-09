@@ -1,0 +1,17 @@
+{'ansatz': 'IQP_checkboard',
+ 'backend': 'ibm_brisbane',
+ 'backend_noise': False,
+ 'cycle': False,
+ 'experiment_name': 'maxcut31_2023-3-14_23-32-151200366352.txt',
+ 'filter_type': 'inverse',
+ 'initial_params': False,
+ 'learning_rate': 0.25,
+ 'loss_function': 'fidelity',
+ 'max_time': 18000,
+ 'n_qubits': 31,
+ 'n_shots': 675,
+ 'n_steps': 225,
+ 'optimiser': 'gradient descent',
+ 'problem': 'MAXCUT',
+ 'tau': 2.5}
+

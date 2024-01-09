@@ -1,0 +1,18 @@
+{'backend': 'ibm_sherbrooke',
+ 'n_run': 1,
+ 'n_steps': 8,
+ 'time_job_done': '2023-07-05 15:00:09.537129',
+ 'time_queue': '0:07:01.159223',
+ 'time_running': '6:59:07.214207',
+ 'time_upload': '2023-07-05 07:54:01.163699',
+ 'total_circuits': 763200}
+
+{'backend': 'ibm_sherbrooke',
+ 'n_run': 2,
+ 'n_steps': 3,
+ 'time_job_done': '2023-07-05 19:28:09.794835',
+ 'time_queue': '4:00:41.355681',
+ 'time_running': '0:27:17.917280',
+ 'time_upload': '2023-07-05 15:00:10.521874',
+ 'total_circuits': 286200}
+

@@ -1,0 +1,17 @@
+{'ansatz': 'IQP_checkboard',
+ 'backend': 'ibm_cusco',
+ 'backend_noise': False,
+ 'cycle': False,
+ 'experiment_name': 'maxcut25_2022-11-25_16-35-18546613940.txt',
+ 'filter_type': 'inverse',
+ 'initial_params': False,
+ 'learning_rate': 0.25,
+ 'loss_function': 'fidelity',
+ 'max_time': 18000,
+ 'n_qubits': 25,
+ 'n_shots': 525,
+ 'n_steps': 225,
+ 'optimiser': 'gradient descent',
+ 'problem': 'MAXCUT',
+ 'tau': 2.5}
+

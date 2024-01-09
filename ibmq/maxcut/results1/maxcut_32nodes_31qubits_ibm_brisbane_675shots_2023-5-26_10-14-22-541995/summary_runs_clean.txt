@@ -1,0 +1,104 @@
+{'n_run': 1,
+ 'n_steps': 3,
+ 'time_job_done': '2023-05-26 11:26:40.760552',
+ 'time_queue': '0:00:00.258605',
+ 'time_running': '1:12:16.445502',
+ 'time_upload': '2023-05-26 10:14:24.056445',
+ 'total_circuits': 834300}
+
+{'n_run': 2,
+ 'n_steps': 18,
+ 'time_job_done': '2023-05-26 15:42:26.354623',
+ 'time_queue': '0:01:00.491295',
+ 'time_running': '4:14:44.470802',
+ 'time_upload': '2023-05-26 11:26:41.392526',
+ 'total_circuits': 5005800}
+
+{'n_run': 3,
+ 'n_steps': 10,
+ 'time_job_done': '2023-05-27 03:43:42.465041',
+ 'time_queue': '7:46:00.282858',
+ 'time_running': '4:15:13.007710',
+ 'time_upload': '2023-05-26 15:42:29.174473',
+ 'total_circuits': 2781000}
+
+{'n_run': 4,
+ 'n_steps': 16,
+ 'time_job_done': '2023-05-27 14:13:13.071642',
+ 'time_queue': '6:14:43.007248',
+ 'time_running': '4:14:46.992918',
+ 'time_upload': '2023-05-27 03:43:43.071476',
+ 'total_circuits': 4449600}
+
+{'n_run': 5,
+ 'n_steps': 19,
+ 'time_job_done': '2023-05-28 01:56:20.768848',
+ 'time_queue': '7:27:56.041654',
+ 'time_running': '4:15:10.530997',
+ 'time_upload': '2023-05-27 14:13:14.196197',
+ 'total_circuits': 5283900}
+
+{'n_run': 6,
+ 'n_steps': 18,
+ 'time_job_done': '2023-05-28 06:12:16.281479',
+ 'time_queue': '0:01:00.565337',
+ 'time_running': '4:14:54.096733',
+ 'time_upload': '2023-05-28 01:56:21.619409',
+ 'total_circuits': 5005800}
+
+{'n_run': 7,
+ 'n_steps': 19,
+ 'time_job_done': '2023-05-28 10:28:04.354312',
+ 'time_queue': '0:01:00.573146',
+ 'time_running': '4:14:46.876560',
+ 'time_upload': '2023-05-28 06:12:16.904606',
+ 'total_circuits': 5283900}
+
+{'n_run': 8,
+ 'n_steps': 18,
+ 'time_job_done': '2023-05-28 14:43:52.054564',
+ 'time_queue': '0:01:00.510203',
+ 'time_running': '4:14:46.382578',
+ 'time_upload': '2023-05-28 10:28:05.161783',
+ 'total_circuits': 5005800}
+
+{'n_run': 9,
+ 'n_steps': 19,
+ 'time_job_done': '2023-05-28 21:05:03.912218',
+ 'time_queue': '2:05:33.669882',
+ 'time_running': '4:15:37.272159',
+ 'time_upload': '2023-05-28 14:43:52.970177',
+ 'total_circuits': 5283900}
+
+{'n_run': 10,
+ 'n_steps': 19,
+ 'time_job_done': '2023-05-29 01:20:53.675431',
+ 'time_queue': '0:01:00.450882',
+ 'time_running': '4:14:48.460945',
+ 'time_upload': '2023-05-28 21:05:04.763604',
+ 'total_circuits': 5283900}
+
+{'n_run': 11,
+ 'n_steps': 18,
+ 'time_job_done': '2023-05-29 05:36:43.868927',
+ 'time_queue': '0:01:00.420751',
+ 'time_running': '4:14:49.105139',
+ 'time_upload': '2023-05-29 01:20:54.343037',
+ 'total_circuits': 5005800}
+
+{'n_run': 12,
+ 'n_steps': 14,
+ 'time_job_done': '2023-05-29 10:02:08.714588',
+ 'time_queue': '0:10:02.438487',
+ 'time_running': '4:15:21.578654',
+ 'time_upload': '2023-05-29 05:36:44.697447',
+ 'total_circuits': 3893400}
+
+{'n_run': 13,
+ 'n_steps': 9,
+ 'time_job_done': '2023-05-29 14:56:53.295985',
+ 'time_queue': '2:49:38.506774',
+ 'time_running': '2:05:01.408592',
+ 'time_upload': '2023-05-29 10:02:13.380619',
+ 'total_circuits': 2502900}
+

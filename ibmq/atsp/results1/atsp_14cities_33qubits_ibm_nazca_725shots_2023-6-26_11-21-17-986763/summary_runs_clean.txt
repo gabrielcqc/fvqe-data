@@ -1,0 +1,213 @@
+{'n_run': 1,
+ 'n_steps': 18,
+ 'time_job_done': '2023-06-26 16:45:30.950197',
+ 'time_queue': '0:06:01.501992',
+ 'time_running': '5:18:10.161322',
+ 'time_upload': '2023-06-26 11:21:19.286883',
+ 'total_circuits': 6016050}
+
+{'n_run': 2,
+ 'n_steps': 12,
+ 'time_job_done': '2023-06-27 00:15:22.891038',
+ 'time_queue': '1:16:53.454668',
+ 'time_running': '6:12:57.656955',
+ 'time_upload': '2023-06-26 16:45:31.779415',
+ 'total_circuits': 4010700}
+
+{'n_run': 3,
+ 'n_steps': 7,
+ 'time_job_done': '2023-06-27 05:21:24.423627',
+ 'time_queue': '0:06:01.528358',
+ 'time_running': '4:59:59.320997',
+ 'time_upload': '2023-06-27 00:15:23.574272',
+ 'total_circuits': 2339575}
+
+{'backend': 'ibm_nazca',
+ 'n_run': 4,
+ 'n_steps': 13,
+ 'time_job_done': '2023-06-27 23:38:16.957129',
+ 'time_queue': '0:43:14.127056',
+ 'time_running': '9:06:27.891551',
+ 'time_upload': '2023-06-27 13:48:34.938522',
+ 'total_circuits': 4344925}
+
+{'backend': 'ibm_nazca',
+ 'n_run': 5,
+ 'n_steps': 7,
+ 'time_job_done': '2023-06-28 02:09:01.676187',
+ 'time_queue': '0:02:00.600366',
+ 'time_running': '2:28:43.481332',
+ 'time_upload': '2023-06-27 23:38:17.594489',
+ 'total_circuits': 2339575}
+
+{'backend': 'ibm_nazca',
+ 'n_run': 6,
+ 'n_steps': 5,
+ 'time_job_done': '2023-06-28 04:43:22.483269',
+ 'time_queue': '0:39:09.025930',
+ 'time_running': '1:55:09.488714',
+ 'time_upload': '2023-06-28 02:09:03.968625',
+ 'total_circuits': 1671125}
+
+{'backend': 'ibm_nazca',
+ 'n_run': 7,
+ 'n_steps': 0,
+ 'time_job_done': '2023-06-28 05:35:40.403976',
+ 'time_queue': '0:20:04.648215',
+ 'time_running': '0:32:12.561593',
+ 'time_upload': '2023-06-28 04:43:23.194168',
+ 'total_circuits': 0}
+
+{'backend': 'ibm_nazca',
+ 'n_run': 8,
+ 'n_steps': 0,
+ 'time_job_done': '2023-06-28 12:05:16.500732',
+ 'time_queue': '0:37:08.363501',
+ 'time_running': '5:52:26.937326',
+ 'time_upload': '2023-06-28 05:35:41.199905',
+ 'total_circuits': 0}
+
+{'backend': 'ibm_nazca',
+ 'n_run': 9,
+ 'n_steps': 7,
+ 'time_job_done': '2023-06-28 17:37:21.552243',
+ 'time_queue': '0:20:04.553003',
+ 'time_running': '5:11:59.910916',
+ 'time_upload': '2023-06-28 12:05:17.088324',
+ 'total_circuits': 2339575}
+
+{'backend': 'ibm_nazca',
+ 'n_run': 10,
+ 'n_steps': 3,
+ 'time_job_done': '2023-06-29 01:02:58.837418',
+ 'time_queue': '0:10:02.402232',
+ 'time_running': '7:15:34.304347',
+ 'time_upload': '2023-06-28 17:37:22.130839',
+ 'total_circuits': 1002675}
+
+{'backend': 'ibm_nazca',
+ 'n_run': 11,
+ 'n_steps': 12,
+ 'time_job_done': '2023-06-29 07:19:20.972881',
+ 'time_queue': '0:31:07.021488',
+ 'time_running': '5:45:14.238101',
+ 'time_upload': '2023-06-29 01:02:59.713292',
+ 'total_circuits': 4010700}
+
+{'backend': 'ibm_nazca',
+ 'n_run': 12,
+ 'n_steps': 15,
+ 'time_job_done': '2023-06-29 12:56:26.699174',
+ 'time_queue': '0:23:05.347929',
+ 'time_running': '5:13:59.618311',
+ 'time_upload': '2023-06-29 07:19:21.732934',
+ 'total_circuits': 5013375}
+
+{'backend': 'ibm_nazca',
+ 'n_run': 13,
+ 'n_steps': 2,
+ 'time_job_done': '2023-06-29 21:32:49.823404',
+ 'time_queue': '1:36:22.911234',
+ 'time_running': '6:59:59.386840',
+ 'time_upload': '2023-06-29 12:56:27.525330',
+ 'total_circuits': 668450}
+
+{'backend': 'ibm_nazca',
+ 'n_run': 14,
+ 'n_steps': 5,
+ 'time_job_done': '2023-06-29 23:55:13.402421',
+ 'time_queue': '0:18:04.206593',
+ 'time_running': '2:04:18.258121',
+ 'time_upload': '2023-06-29 21:32:50.937707',
+ 'total_circuits': 1671125}
+
+{'backend': 'ibm_nazca',
+ 'n_run': 15,
+ 'n_steps': 6,
+ 'time_job_done': '2023-06-30 05:57:03.572358',
+ 'time_queue': '0:01:00.359183',
+ 'time_running': '6:00:49.084623',
+ 'time_upload': '2023-06-29 23:55:14.128552',
+ 'total_circuits': 2005350}
+
+{'backend': 'ibm_nazca',
+ 'n_run': 16,
+ 'n_steps': 6,
+ 'time_job_done': '2023-06-30 12:55:28.431677',
+ 'time_queue': '3:51:53.103503',
+ 'time_running': '3:06:31.173978',
+ 'time_upload': '2023-06-30 05:57:04.154196',
+ 'total_circuits': 2005350}
+
+{'backend': 'ibm_nazca',
+ 'n_run': 17,
+ 'n_steps': 12,
+ 'time_job_done': '2023-06-30 20:17:00.797914',
+ 'time_queue': '0:06:01.575724',
+ 'time_running': '7:15:28.941489',
+ 'time_upload': '2023-06-30 12:55:30.280701',
+ 'total_circuits': 4010700}
+
+{'backend': 'ibm_nazca',
+ 'n_run': 18,
+ 'n_steps': 12,
+ 'time_job_done': '2023-07-01 05:58:45.359874',
+ 'time_queue': '2:41:36.089571',
+ 'time_running': '7:00:07.471849',
+ 'time_upload': '2023-06-30 20:17:01.798454',
+ 'total_circuits': 4010700}
+
+{'backend': 'ibm_nazca',
+ 'n_run': 19,
+ 'n_steps': 15,
+ 'time_job_done': '2023-07-01 14:35:48.034389',
+ 'time_queue': '3:15:43.308116',
+ 'time_running': '5:21:18.443190',
+ 'time_upload': '2023-07-01 05:58:46.283083',
+ 'total_circuits': 5013375}
+
+{'backend': 'ibm_nazca',
+ 'n_run': 20,
+ 'n_steps': 8,
+ 'time_job_done': '2023-07-01 22:36:03.507682',
+ 'time_queue': '2:41:37.321078',
+ 'time_running': '5:18:37.324133',
+ 'time_upload': '2023-07-01 14:35:48.862471',
+ 'total_circuits': 2673800}
+
+{'backend': 'ibm_nazca',
+ 'n_run': 21,
+ 'n_steps': 16,
+ 'time_job_done': '2023-07-02 05:58:11.769570',
+ 'time_queue': '0:07:01.676844',
+ 'time_running': '7:15:05.877123',
+ 'time_upload': '2023-07-01 22:36:04.215603',
+ 'total_circuits': 5347600}
+
+{'backend': 'ibm_nazca',
+ 'n_run': 22,
+ 'n_steps': 5,
+ 'time_job_done': '2023-07-02 19:26:23.513989',
+ 'time_queue': '6:12:24.576038',
+ 'time_running': '7:15:42.656890',
+ 'time_upload': '2023-07-02 05:58:16.281061',
+ 'total_circuits': 1671125}
+
+{'backend': 'ibm_nazca',
+ 'n_run': 23,
+ 'n_steps': 3,
+ 'time_job_done': '2023-07-03 07:13:40.463076',
+ 'time_queue': '4:32:02.803544',
+ 'time_running': '7:15:13.423650',
+ 'time_upload': '2023-07-02 19:26:24.235882',
+ 'total_circuits': 1002675}
+
+{'backend': 'ibm_nazca',
+ 'n_run': 24,
+ 'n_steps': 0,
+ 'time_job_done': '2023-07-03 10:20:27.781709',
+ 'time_queue': '2:49:42.725189',
+ 'time_running': '0:17:03.782283',
+ 'time_upload': '2023-07-03 07:13:41.274237',
+ 'total_circuits': 0}
+

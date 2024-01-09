@@ -1,0 +1,117 @@
+{'backend': 'ibm_cusco',
+ 'n_run': 1,
+ 'n_steps': 16,
+ 'time_job_done': '2023-07-10 13:46:48.655152',
+ 'time_queue': '0:01:00.256047',
+ 'time_running': '5:19:17.113769',
+ 'time_upload': '2023-07-10 08:26:31.285336',
+ 'total_circuits': 3590000}
+
+{'backend': 'ibm_cusco',
+ 'n_run': 2,
+ 'n_steps': 9,
+ 'time_job_done': '2023-07-10 20:19:20.871009',
+ 'time_queue': '1:13:17.921050',
+ 'time_running': '5:19:13.183269',
+ 'time_upload': '2023-07-10 13:46:49.766690',
+ 'total_circuits': 2019375}
+
+{'backend': 'ibm_cusco',
+ 'n_run': 3,
+ 'n_steps': 22,
+ 'time_job_done': '2023-07-11 03:22:11.509469',
+ 'time_queue': '1:43:22.559172',
+ 'time_running': '5:19:27.444047',
+ 'time_upload': '2023-07-10 20:19:21.506250',
+ 'total_circuits': 4936250}
+
+{'backend': 'ibm_cusco',
+ 'n_run': 4,
+ 'n_steps': 24,
+ 'time_job_done': '2023-07-11 08:40:16.396137',
+ 'time_queue': '0:01:00.329041',
+ 'time_running': '5:17:04.049673',
+ 'time_upload': '2023-07-11 03:22:12.017423',
+ 'total_circuits': 5385000}
+
+{'backend': 'ibm_cusco',
+ 'n_run': 5,
+ 'n_steps': 14,
+ 'time_job_done': '2023-07-11 14:36:58.419683',
+ 'time_queue': '0:36:07.871409',
+ 'time_running': '5:20:33.402723',
+ 'time_upload': '2023-07-11 08:40:17.145551',
+ 'total_circuits': 3141250}
+
+{'backend': 'ibm_cusco',
+ 'n_run': 6,
+ 'n_steps': 26,
+ 'time_job_done': '2023-07-11 19:59:23.962362',
+ 'time_queue': '0:01:00.435220',
+ 'time_running': '5:21:23.078972',
+ 'time_upload': '2023-07-11 14:37:00.448170',
+ 'total_circuits': 5833750}
+
+{'backend': 'ibm_cusco',
+ 'n_run': 7,
+ 'n_steps': 21,
+ 'time_job_done': '2023-07-12 03:34:37.372435',
+ 'time_queue': '0:36:08.119752',
+ 'time_running': '6:59:02.844181',
+ 'time_upload': '2023-07-11 19:59:26.408502',
+ 'total_circuits': 4711875}
+
+{'backend': 'ibm_cusco',
+ 'n_run': 8,
+ 'n_steps': 23,
+ 'time_job_done': '2023-07-12 08:53:42.522659',
+ 'time_queue': '0:01:00.318198',
+ 'time_running': '5:18:04.236449',
+ 'time_upload': '2023-07-12 03:34:37.968012',
+ 'total_circuits': 5160625}
+
+{'backend': 'ibm_cusco',
+ 'n_run': 9,
+ 'n_steps': 22,
+ 'time_job_done': '2023-07-13 14:07:10.684916',
+ 'time_queue': '0:01:00.382931',
+ 'time_running': '5:20:04.424734',
+ 'time_upload': '2023-07-13 08:46:05.877251',
+ 'total_circuits': 4936250}
+
+{'backend': 'ibm_cusco',
+ 'n_run': 10,
+ 'n_steps': 17,
+ 'time_job_done': '2023-07-13 19:27:31.015409',
+ 'time_queue': '0:01:00.336643',
+ 'time_running': '5:19:19.247385',
+ 'time_upload': '2023-07-13 14:07:11.431381',
+ 'total_circuits': 3814375}
+
+{'backend': 'ibm_cusco',
+ 'n_run': 11,
+ 'n_steps': 14,
+ 'time_job_done': '2023-07-14 02:28:51.277794',
+ 'time_queue': '0:02:00.565513',
+ 'time_running': '6:59:18.967162',
+ 'time_upload': '2023-07-13 19:27:31.745119',
+ 'total_circuits': 3141250}
+
+{'backend': 'ibm_cusco',
+ 'n_run': 12,
+ 'n_steps': 16,
+ 'time_job_done': '2023-07-14 12:02:12.779073',
+ 'time_queue': '4:25:58.106383',
+ 'time_running': '5:07:22.803629',
+ 'time_upload': '2023-07-14 02:28:51.869061',
+ 'total_circuits': 3590000}
+
+{'backend': 'ibm_cusco',
+ 'n_run': 13,
+ 'n_steps': 1,
+ 'time_job_done': '2023-07-14 12:14:11.893609',
+ 'time_queue': '0:01:00.412499',
+ 'time_running': '0:10:58.160235',
+ 'time_upload': '2023-07-14 12:02:13.320875',
+ 'total_circuits': 224375}
+

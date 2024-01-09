@@ -1,0 +1,17 @@
+{'ansatz': 'IQP_checkboard',
+ 'backend': 'ibm_sherbrooke',
+ 'backend_noise': False,
+ 'cycle': False,
+ 'experiment_name': 'atsp_11cities_22qubits_2022-11-24_17-7-0_2976612108.pkl',
+ 'filter_type': 'inverse',
+ 'initial_params': False,
+ 'learning_rate': 0.25,
+ 'loss_function': 'fidelity',
+ 'max_time': 14400,
+ 'n_qubits': 22,
+ 'n_shots': 450,
+ 'n_steps': 200,
+ 'optimiser': 'gradient descent',
+ 'problem': 'ATSP',
+ 'tau': 2.5}
+
