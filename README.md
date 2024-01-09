@@ -20,43 +20,47 @@ project
 |       |   |   *.pkl
 └───gradients
 │   └───maxcut
-|   |   |   exact_grads_*.npy
-|   |   |   exact_grads_vqe_*.npy
+|   |   |   exact_grads.pkl
+|   |   |   exact_grads_vqe_.pkl
 │   └───atsp
-|       |   exact_grads_*.npy
-|       |   exact_grads_vqe_*.npy
+|       |   exact_grads.pkl
+|       |   exact_grads_vqe.pkl
 └───ibmq
+|    └───maxcut
+|    |   └───problems
+|    |   |   |   *.txt
+|    |   └───results{1,2,3}
+|    |   |   └───exp_folder
+|    |   |       |   input_clean.{txt,pkl}
+|    |   |       |   output_clean.{txt,pkl}
+|    |   |       |   summary_runs_clean.{txt,pkl}
+|    |   |       |   best_samples.npy
+|    |   └───sequential
+|    |       |   *.npy
+|    └───atsp
+|        └───problems
+|        |   |   *.pkl
+|        └───results{1,2,3}
+|        └───sequential
+|            |   *.npy
+└───hyperparams
     └───maxcut
-    |   └───problems
-    |   |   |   *.txt
-    |   └───results1
-    |   |   └───exp_folder
-    |   |   |   |   input.{txt,pkl}
-    |   |   |   |   output.{txt,pkl}
-    |   |   |   |   summary_runs.{txt,pkl}
-    |   |   |   |   best_samples.npy
-    |   └───results2
-    |   └───results3
-    |   └───sequential
-    |   |   |   *.npy
+    |   |   cumul_probs_{fvqe,cl}_{1,2,3,4}.pkl
     └───atsp
-        └───problems
-        |   |   *.pkl
-        └───results1
-        └───results2
-        └───results3
-        └───sequential
-            |   *.npy
+        |   cumul_probs_{fvqe,cl}_{1,2,3,4}.pkl
 ```
 Let us now describe the information contained in each file:
 * ```data_{maxcut,atsp}_{fvqe,classical,sequ7ential,annealing}.pkl```: A dictionary with a dictionary for each size. Contains a list of the evolution of the best sample, energy, app. rat. and number of shots per each problem, as well as an indicator if the ground state has been sampled.
 
-* ```exact_grads_*.npy```: Array of exact gradients for all experiments of a given size.
+* ```exact_grads{_vqe}.pkl```: Dictionary of arrays of exact gradients for all experiments of a given size.
 
-* ```input.{txt,pkl}```: Contains the main input info of the experiment, such as the problem file, backend, number of shots, etc.
+* ```input_clean.{txt,pkl}```: Contains the main input info of the experiment, such as the problem file, backend, number of shots, etc.
 
-* ```output_files.{txt,pkl}```: Contains info of every step such as the evolution of best parameters, the times for both the quantum and classical part, gradient info, etc.
+* ```output_files_clean.{txt,pkl}```: Contains info of every step such as the evolution of best parameters, the times for both the quantum and classical part, gradient info, etc.
 
-* ```summary_runs.{txt,pkl}```: Summary of each job sent to Qiskit Runtime..
+* ```summary_runs_clean.{txt,pkl}```: Summary of each job sent to Qiskit Runtime.
 
 * ```best_samples.npy```: Array with the evolution of the best sample, energy, approximation $ratio and number of shots.
+
+* ```cumul_probs_{fvqe,cl}_{1,2,3,4}.pkl```: Array with the cumulative probabilities for each problem instance for different sizes using exact simulations and 4 sets of hyperparameters for both the F-VQE and the Classical Ansatz.
+
